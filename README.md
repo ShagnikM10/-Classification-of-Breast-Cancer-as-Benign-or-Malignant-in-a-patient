@@ -1,0 +1,2 @@
+# -Classification-of-Breast-Cancer-as-Benign-or-Malignant-in-a-patient
+This objective of this case study was to determine whether the cancer cell is benign or malignant. Both Sequential and Parallel Ensembling Techniques were used. The 3 Models were built on the Bagging-Meta Estimator Classifier followed by AdaBoost Classifier and XGBoost Classifier. The EDA part comprised of Outlier and Missing Value detection.
